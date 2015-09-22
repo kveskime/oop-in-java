@@ -10,6 +10,6 @@ The actual exercises after this lecture will be from here:
 
 [Praktikum3 C#](https://wiki.itcollege.ee/index.php/Praktikum3:_Viitet%C3%BC%C3%BCpi_muutujad_CSharp_programmeerimiskeeles)
 
-NOTE: Java and C# are similar enough that with these exercises there are no differences.
+NOTE: Java and C# are similar enough for the exercises to be identical.
 
 
