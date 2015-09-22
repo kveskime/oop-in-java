@@ -1,4 +1,14 @@
 
+    /**
+     * This class allows you to create a Calculator type object with which you can simplify a complex expression from an input string into a single digit string.
+     * Currently it has no validity checks for the correct syntax of the input string.
+     *
+     * Example:
+     *
+     *      Calculator calc = new Calculator();
+     *      System.out.println(calc.calculate("2+3/3*4"));
+     * 
+     */
 class Calculator {
 
     /**
